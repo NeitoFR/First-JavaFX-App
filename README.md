@@ -1,0 +1,1 @@
+Here is a simple JavaFX Application MVC-oriented. That manage a simple list of person.
